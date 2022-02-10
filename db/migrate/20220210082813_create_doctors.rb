@@ -1,3 +1,5 @@
+#Migration concernant les docteuuuurs
+
 class CreateDoctors < ActiveRecord::Migration[5.2]
   def change
     create_table :doctors do |t|
@@ -5,7 +7,6 @@ class CreateDoctors < ActiveRecord::Migration[5.2]
       t.string :last_name
       t.string :speciality
       t.string :zip_code
-      t.belongs_to :doctor, index: true
 
       t.timestamps
     end
