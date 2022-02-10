@@ -1,24 +1,28 @@
-# README
+# FreeDoc 👨‍⚕️🩺
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Amateur de méthamphétamine bleu ? de sensations fortes ? envie de voir quelque chose d'inoubliable ? Et bien... passe ton chemin, cela ne sera pas ici ahahah
 
-Things you may want to cover:
+## Installation 💻
 
-* Ruby version
 
-* System dependencies
+```bash
+$ git clone htpploooool
+```
 
-* Configuration
+#
 
-* Database creation
 
-* Database initialization
+## Dessin du jour 🎨
 
-* How to run the test suite
+```     __   __
+     \/---\/
+      ). .(
+     ( (") )
+      )   (
+     /     \ 
+    (       )
+   ( \ /-\ / )
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[PierreLegouxCorporation](https://google.fr)
